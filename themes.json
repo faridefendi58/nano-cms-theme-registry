@@ -1,0 +1,46 @@
+[
+    {
+        "slug": "company-profile",
+        "name": "Company Profile",
+        "description": "A modern, professional company profile theme. Blue accent, Inter typeface, light-mode first with full dark mode support. No plugins required.",
+        "version": "1.0.0",
+        "author": "faridefendi58",
+        "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-theme-company-profile/main/screenshot.webp",
+        "download_url": "https://github.com/faridefendi58/nano-cms-theme-company-profile/archive/refs/tags/v1.0.0.zip",
+        "requires_cms": ">=1.0.0",
+        "tags": ["business", "corporate", "no-plugins"]
+    },
+    {
+        "slug": "minimal-blog",
+        "name": "Minimal Blog",
+        "description": "A clean, typography-focused blog theme. No membership features required.",
+        "version": "1.0.0",
+        "author": "faridefendi58",
+        "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-theme-minimal-blog/main/screenshot.webp",
+        "download_url": "https://github.com/faridefendi58/nano-cms-theme-minimal-blog/archive/refs/tags/v1.0.0.zip",
+        "requires_cms": ">=1.0.0",
+        "tags": ["blog", "minimal", "typography"]
+    },
+    {
+        "slug": "trader-mentor",
+        "name": "Trader Mentor",
+        "description": "Official theme for the TraderMentor platform. Amber/orange accent, dark-mode first, Figtree typeface.",
+        "version": "1.0.0",
+        "author": "faridefendi58",
+        "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-theme-trader-mentor/main/screenshot.webp",
+        "download_url": "https://github.com/faridefendi58/nano-cms-theme-trader-mentor/archive/refs/tags/v1.0.0.zip",
+        "requires_cms": ">=1.0.0",
+        "tags": ["finance", "membership", "dark"]
+    },
+    {
+        "slug": "modern-shop",
+        "name": "Modern Shop",
+        "description": "A clean, conversion-focused e-commerce theme. Violet accent, Plus Jakarta Sans typeface, dark-mode first with light mode support. Requires the Shop plugin.",
+        "version": "1.0.0",
+        "author": "faridefendi58",
+        "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-theme-modern-shop/main/screenshot.webp",
+        "download_url": "https://github.com/faridefendi58/nano-cms-theme-modern-shop/archive/refs/tags/v1.0.0.zip",
+        "requires_cms": ">=1.0.0",
+        "tags": ["ecommerce", "shop", "dark"]
+    }
+]
