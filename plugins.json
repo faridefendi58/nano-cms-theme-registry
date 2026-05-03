@@ -27,10 +27,10 @@
         "slug": "membership",
         "name": "Membership",
         "description": "Subscription plans, payments, and premium content gating. Integrates with the Blog plugin.",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "faridefendi58",
         "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-plugin-membership/main/preview.png",
-        "download_url": "https://github.com/faridefendi58/nano-cms-plugin-membership/archive/refs/tags/v1.0.0.zip",
+        "download_url": "https://github.com/faridefendi58/nano-cms-plugin-membership/archive/refs/tags/v1.0.1.zip",
         "requires_cms": ">=1.0.0",
         "requires_plugins": [],
         "tags": ["membership", "subscription", "payments"]
