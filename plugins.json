@@ -15,10 +15,10 @@
         "slug": "blog",
         "name": "Blog",
         "description": "Full-featured blog with articles, categories, and tags. Supports draft/published workflow.",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "faridefendi58",
         "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-plugin-blog/main/preview.png",
-        "download_url": "https://github.com/faridefendi58/nano-cms-plugin-blog/archive/refs/tags/v1.0.0.zip",
+        "download_url": "https://github.com/faridefendi58/nano-cms-plugin-blog/archive/refs/tags/v1.1.0.zip",
         "requires_cms": ">=1.0.0",
         "requires_plugins": [],
         "tags": ["blog", "articles", "content"]
