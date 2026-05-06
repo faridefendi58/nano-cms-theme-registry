@@ -14,10 +14,10 @@
         "slug": "minimal-blog",
         "name": "Minimal Blog",
         "description": "A clean, typography-focused blog theme. No membership features required.",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "faridefendi58",
         "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-theme-minimal-blog/main/screenshot.webp",
-        "download_url": "https://github.com/faridefendi58/nano-cms-theme-minimal-blog/archive/refs/tags/v1.0.0.zip",
+        "download_url": "https://github.com/faridefendi58/nano-cms-theme-minimal-blog/archive/refs/tags/v1.0.1.zip",
         "requires_cms": ">=1.0.0",
         "tags": ["blog", "minimal", "typography"]
     },
@@ -47,10 +47,10 @@
         "slug": "personal-blog-modern",
         "name": "Personal Blog Modern",
         "description": "A modern, personal blog theme. Emerald accent, Inter typeface, light-mode first with full dark mode support. Requires the Blog plugin.",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "faridefendi58",
         "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-theme-personal-blog-modern/main/screenshot.webp",
-        "download_url": "https://github.com/faridefendi58/nano-cms-theme-personal-blog-modern/archive/refs/tags/v1.0.0.zip",
+        "download_url": "https://github.com/faridefendi58/nano-cms-theme-personal-blog-modern/archive/refs/tags/v1.0.1.zip",
         "requires_cms": ">=1.0.0",
         "tags": ["blog", "personal"]
     }
