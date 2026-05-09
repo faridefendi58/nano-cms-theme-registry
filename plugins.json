@@ -24,6 +24,18 @@
         "tags": ["blog", "articles", "content"]
     },
     {
+        "slug": "contact-form",
+        "name": "Contact Form",
+        "description": "Simple contact form with email notifications and spam protection.",
+        "version": "1.0.0",
+        "author": "faridefendi58",
+        "preview_url": "https://raw.githubusercontent.com/faridefendi58/nano-cms-plugin-contact-form/main/preview.png",
+        "download_url": "https://github.com/faridefendi58/nano-cms-plugin-contact-form/archive/refs/tags/v1.0.0.zip",
+        "requires_cms": ">=1.0.0",
+        "requires_plugins": [],
+        "tags": ["contact", "form", "email"]
+    },
+    {
         "slug": "membership",
         "name": "Membership",
         "description": "Subscription plans, payments, and premium content gating. Integrates with the Blog plugin.",
